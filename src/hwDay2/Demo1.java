@@ -14,6 +14,12 @@ public class Demo1 {
 		System.out.println(1+2);
 	}
 
+	
+	public void divid(int a, int b) {
+		System.out.println(1/2);
+	}
+	
+	
 }
 
 
